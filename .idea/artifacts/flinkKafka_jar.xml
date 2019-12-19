@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flinkKafka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flinkKafka_jar</output-path>
+    <root id="archive" name="flinkKafka.jar">
+      <element id="module-output" name="flinkKafka" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-base_2.11/1.5.1/flink-connector-kafka-base_2.11-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.9_2.11/1.5.1/flink-connector-kafka-0.9_2.11-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.10_2.11/1.5.1/flink-connector-kafka-0.10_2.11-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/flink/force-shading/1.5.1/force-shading-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.11_2.11/1.5.1/flink-connector-kafka-0.11_2.11-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
